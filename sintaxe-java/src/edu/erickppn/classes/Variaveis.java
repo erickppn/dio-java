@@ -1,6 +1,6 @@
-package edu.erickppn.tema.variaveis;
+package edu.erickppn.classes;
 
-public class MyFirstClass {
+public class Variaveis {
     public static void main(String[] args) {
         /*
          * Declaração de variáveis
@@ -13,7 +13,7 @@ public class MyFirstClass {
         int anoFabricacao = 2023;
         boolean verdadeira = false;
 
-        //Substituindo o valor da variável
+        // Substituindo o valor da variável
         anoFabricacao = 2024;
     }
 }

@@ -1,6 +1,6 @@
-package edu.erickppn.tema.metodos;
+package edu.erickppn.classes;
 
-public class MySecondClass {
+public class Metodos {
     public static void main(String[] args) {
         String primeiroNome = "Erick";
         String segundoNome = "Neres";
